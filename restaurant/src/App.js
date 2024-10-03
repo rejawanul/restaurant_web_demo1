@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https//aifecta.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Build website with AIFacta
         </a>
       </header>
     </div>
